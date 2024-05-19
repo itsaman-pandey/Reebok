@@ -73,3 +73,18 @@ margin: 0;
     margin-left: auto;
     display: block;
 }
+
+section {
+    display: flex;
+    gap: 16px;
+    padding: 24px;
+    padding-top: 0;
+}
+
+section .card1 {
+    width: 25%;
+}
+
+section .card1 img {
+    width: 100%;
+}
