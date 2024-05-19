@@ -1,0 +1,45 @@
+
+.head1 {
+background-color: black;
+color: white;
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 12px 24px;
+}
+
+.member_icon img {
+width: 30px;
+height: auto;
+}
+
+.base1 {
+display: flex;
+gap: 10px;
+}
+
+.base1 ul {
+margin: 0;
+padding: 0;
+list-style: none;
+display: flex;
+gap: 10px;
+}
+
+.base1 ul li {
+display: flex;
+align-items: center;
+gap: 4px;
+}
+
+p {
+margin: 0;
+}
+
+.material-symbols-outlined {
+font-size: 16px;
+}
+
+body {
+margin: 0;
+}
